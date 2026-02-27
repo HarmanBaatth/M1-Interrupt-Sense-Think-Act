@@ -30,3 +30,6 @@ The system can handle sensor events and timer events at the same time.
 - Every 1 second → Timer LED toggles.
 
 This project shows how interrupts help in real-time embedded systems.
+
+tinker cad link :https://www.tinkercad.com/things/3ImwTp4Qm6A/editel?returnTo=%2Fdashboard
+
